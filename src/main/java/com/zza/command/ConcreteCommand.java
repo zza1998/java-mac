@@ -1,7 +1,6 @@
 package com.zza.command;
 
-public class ConcreteCommand implements Commend
-{
+public class ConcreteCommand implements Commend {
     Receiver receiver;
 
     public ConcreteCommand(Receiver receiver) {

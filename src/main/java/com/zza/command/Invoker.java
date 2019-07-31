@@ -10,12 +10,14 @@ public class Invoker {
     public void setCommend(Commend commend) {
         this.commend = commend;
     }
+
     // 执行命令
-    public void excuCommend(){
+    public void excuCommend() {
         commend.excute();
     }
+
     // 撤销命令
-    public void undoCommend(){
+    public void undoCommend() {
         commend.undo();
     }
 }

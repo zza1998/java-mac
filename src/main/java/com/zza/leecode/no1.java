@@ -9,6 +9,7 @@ public class no1 {
 
     /**
      * 查询一个有序数列的 对应数值下标 若没有则插入并获取下标
+     *
      * @param nums
      * @param target
      * @return
@@ -33,8 +34,8 @@ public class no1 {
 //        return 0;
 
         // 优化
-        for (int i=0;i<nums.length;i++){
-            if (target<=nums[i+1]){
+        for (int i = 0; i < nums.length; i++) {
+            if (target <= nums[i + 1]) {
                 return i;
             }
 

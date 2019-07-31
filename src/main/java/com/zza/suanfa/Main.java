@@ -1,11 +1,22 @@
 package com.zza.suanfa;
 
-import sun.security.util.Length;
+
+import com.zza.maps.FatherMap;
+
+import java.util.Arrays;
+import java.util.Collections;
 
 public class Main {
     public static void main(String[] args) {
+        char a='a';
+        char b='c';
+        String A="abcde";
+        String B="a";
+        String C="ABCDE";
+        System.out.println(a-b);
+        System.out.println(A.compareTo(C));
+        System.out.println(A.compareToIgnoreCase(C));
 
-        System.out.println(reverseInt(901000));
     }
 
     /**
@@ -111,29 +122,30 @@ public class Main {
 
     /**
      * 翻转int
+     *
      * @param num
      * @return
      */
     public static int reverseInt(int num) {
-        StringBuilder stringBuffer=new StringBuilder();
-        int isfu=0; //是否负数
-        int canadd=0; //是否可以追加字符
-        if (num<0){
-            num=Math.abs(num);
-            isfu=1;
+        StringBuilder stringBuffer = new StringBuilder();
+        int isfu = 0; //是否负数
+        int canadd = 0; //是否可以追加字符
+        if (num < 0) {
+            num = Math.abs(num);
+            isfu = 1;
         }
         for (int i = 0; ; i++) {
             int last = num % 10;
-            if (last!=0&&canadd==0){
+            if (last != 0 && canadd == 0) {
                 stringBuffer.append(last);
-                canadd=1;
+                canadd = 1;
                 num = num / 10;
                 if (num == 0) {
                     break;
                 }
                 continue;
             }
-            if (canadd==1) {
+            if (canadd == 1) {
                 stringBuffer.append(last);
             }
             num = num / 10;
@@ -141,18 +153,29 @@ public class Main {
                 break;
             }
         }
-       String result= stringBuffer.toString();
+        String result = stringBuffer.toString();
         try {
-            int res= Integer.parseInt(result);
-            if (isfu==1){
-                res=-res;
+            int res = Integer.parseInt(result);
+            if (isfu == 1) {
+                res = -res;
             }
             return res;
-        }
-        catch (Exception e){
+        } catch (Exception e) {
             return 0;
         }
 
+    }
+
+    private static final int MAXIMUM_CAPACITY = 1 << 30;
+
+    final static int tableSizeFor(int cap) {
+        int n = cap - 1;
+        n |= n >>> 1;
+        n |= n >>> 2;
+        n |= n >>> 4;
+        n |= n >>> 8;
+        n |= n >>> 16;
+        return (n < 0) ? 1 : (n >= MAXIMUM_CAPACITY) ? MAXIMUM_CAPACITY : n + 1;
     }
 
 }

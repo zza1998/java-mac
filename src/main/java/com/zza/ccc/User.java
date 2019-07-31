@@ -4,7 +4,7 @@ import java.io.Serializable;
 import java.util.List;
 
 
-public class User  implements Serializable {
+public class User implements Serializable {
     private String name;
     private Integer age;
     private Integer sex;

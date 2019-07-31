@@ -1,4 +1,4 @@
 package com.zza.lambda;
 
- class DefaultImpl implements Default{
+class DefaultImpl implements Default {
 }
