@@ -3,19 +3,24 @@ package com.zza.suanfa;
 
 import com.zza.maps.FatherMap;
 
-import java.util.Arrays;
-import java.util.Collections;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
-        char a='a';
-        char b='c';
-        String A="abcde";
-        String B="a";
-        String C="ABCDE";
-        System.out.println(a-b);
-        System.out.println(A.compareTo(C));
-        System.out.println(A.compareToIgnoreCase(C));
+//        Scanner sc = new Scanner(System.in);
+//        int num = sc.nextInt();
+//        int[][] arr = new int[num][num];
+//        for (int i = 0;i<num;i++){
+//            for (int j = 0;j<num;j++){
+//                arr[i][j] = sc.nextInt();
+//            }
+//        }
+//        System.out.println(getDepartMents(arr));
+        Scanner sc = new Scanner(System.in);
+        int num = sc.nextInt();
+        for (int i = 0;i<num;i++){
+            System.out.println(getRight(sc.next()));
+        }
 
     }
 
@@ -177,5 +182,52 @@ public class Main {
         n |= n >>> 16;
         return (n < 0) ? 1 : (n >= MAXIMUM_CAPACITY) ? MAXIMUM_CAPACITY : n + 1;
     }
+    public static int getDepartMents(int[][] arr){
+        int len = arr.length;
+        int num = 0;
+        int[][] clone = new int[arr.length][arr.length];
+        for (int i = 0; i<len ;i++){
+            for (int j = 0;j<len ; j++){
+                if (arr[i][j] == 1){
+                    if (clone[i-1<0?0:i-1][j] != 1 && clone[i+1>arr.length-1?arr.length-1:i+1][j]!=1
+                        && clone[i][j+1>arr.length-1?arr.length-1:j+1]!= 1 && clone[i][j-1<0?0:j-1]!=1){
+                        num++;
+                    }
+                    clone[i][j] = 1;
+                }
+            }
+        }
+        return num;
+    }
+    public static String getRight(String str){
+        if (str.isEmpty()){
+            System.out.println("");
+            return "";
+        }
+        StringBuilder sb = new StringBuilder();
+        char[] chars = str.toCharArray();
+        int flag = 0;
+        for (int i = 0;i < chars.length;i++){
+            if (i+2<chars.length && chars[i] == chars[i+1] && chars[i]==chars[i+2]){
+                flag++;
+                continue;
+            }
+            if (i+3<chars.length && chars[i] == chars[i+1] && chars[i+2]==chars[i+3]){
+                sb.append(chars[i]);
+                sb.append(chars[i+1]);
+                sb.append(chars[i+2]);
+                i+=3;
+                flag++;
+                continue;
+            }
+            sb.append(chars[i]);
+        }
+        if (flag==0){
+            return sb.toString();
+        }
+        else {
+            return getRight(sb.toString());
+        }
 
+    }
 }

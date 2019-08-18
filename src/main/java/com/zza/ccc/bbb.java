@@ -20,6 +20,7 @@ public class bbb {
         user.setLikes(likes);
         ObjectMapper mapper = new ObjectMapper();
         String res = mapper.writeValueAsString(user);
+        // 把对象转化成 json格式 string
         System.out.println(res);
     }
 }

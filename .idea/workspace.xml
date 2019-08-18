@@ -2,81 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f809fb1-b1b9-4e40-b488-0989dbc1822b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/beanTest/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/ccc/fff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no1/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no1/No1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no10/Test10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no11/Test11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no12/Test12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no13/Test13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no13/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no14/Test14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no15/Test15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no15/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no16/Test16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no17/Test17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no18/Test18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no2/Resolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no2/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no3/Reso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no3/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no4/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no5/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no6/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no7/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no8/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no9/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/json/JsonConvert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/lambda/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/lambda/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/leecode/No10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/leecode/No11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/leecode/No12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/leecode/No8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/leecode/No9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/leecode/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/leecode/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/leecode/a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/leecode/no3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/leecode/no4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/leecode/no5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/leecode/no6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/leecode/no7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/maps/FatherMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/maps/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/maps/SinMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/maps/SonMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/mutiThread/No3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/mutiThread/No4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/mutiThread/No5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/mutiThread/No6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/mutiThread/No7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/mutiThread/ReentrantLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/mutiThread/no1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/mutiThread/no2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_6_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/beanTest/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/beanTest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/beanTest/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/ccc/AbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/ccc/EnumIs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/ccc/ExtendAbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/ccc/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/ccc/hhhh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/ccc/hhhh2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/ccc/uuu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/check/TT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no19/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no19/cccc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/mutiThread/No8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/socket/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/socket/NettyClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/socket/NettyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zza/socket/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java_study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_study.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zza/ccc/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zza/ccc/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zza/ccc/bbb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zza/ccc/bbb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zza/ccc/ccc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zza/ccc/ccc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zza/ccc/ddd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zza/ccc/ddd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zza/check/ArraysTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zza/check/ArraysTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zza/check/CheckString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zza/check/CheckString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zza/check/Xiangge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zza/check/Xiangge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zza/command/ConcreteCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zza/command/ConcreteCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zza/command/Invoker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zza/command/Invoker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zza/command/Receiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zza/command/Receiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zza/lambda/Default.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zza/lambda/Default.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zza/lambda/DefaultImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zza/lambda/DefaultImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zza/lambda/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zza/lambda/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zza/leecode/no1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zza/leecode/no1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zza/leecode/no2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zza/leecode/no2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zza/ccc/fff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zza/ccc/fff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zza/leecode/No9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zza/leecode/No9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zza/suanfa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zza/suanfa/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zza/ccc/bbb.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zza/ccc/bbb.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/zza/ccc/ddd.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zza/ccc/ddd.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/zza/check/CheckString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zza/check/CheckString.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/zza/check/Xiangge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zza/check/Xiangge.class" afterDir="false" />
@@ -116,16 +69,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/mutiThread/No5.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/math/BigInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="350">
+              <caret line="1312" column="9" lean-forward="true" selection-start-line="1312" selection-start-column="9" selection-end-line="1312" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/mutiThread/No4.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1012">
+              <caret line="107" column="9" selection-start-line="107" selection-start-column="4" selection-end-line="107" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/ccc/hhhh2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="29" column="23" selection-start-line="28" selection-start-column="24" selection-end-line="29" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/ccc/ExtendAbstractClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/ccc/EnumIs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/ccc/ddd.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -134,86 +126,49 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/mutiThread/No6.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+            <state relative-caret-position="23307">
+              <caret line="1434" column="47" selection-start-line="1434" selection-start-column="29" selection-end-line="1434" selection-end-column="47" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#6101#6102#0" expanded="true" />
+                <element signature="e#6171#6172#0" expanded="true" />
+                <element signature="e#32532#32533#0" expanded="true" />
+                <element signature="e#32566#32567#0" expanded="true" />
+                <element signature="e#33488#33489#0" expanded="true" />
+                <element signature="e#33522#33523#0" expanded="true" />
+                <element signature="e#46394#46395#0" expanded="true" />
+                <element signature="e#46458#46459#0" expanded="true" />
+                <element signature="e#47036#47037#0" expanded="true" />
+                <element signature="e#47092#47093#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/mutiThread/No7.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicReferenceArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="238">
+              <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/mutiThread/ReentrantLock.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/DoubleAdder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="493">
+              <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/maps/FatherMap.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/DoubleAccumulator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/suanfa/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="17" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/ccc/fff.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/leecode/No12.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-              <folding>
-                <element signature="e#89#90#0" expanded="true" />
-                <element signature="e#147#148#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/ccc/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="731">
+              <caret line="77" column="13" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -225,6 +180,7 @@
       <list>
         <option value="Interface" />
         <option value="FxmlFile" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -241,29 +197,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/zza/leecode/no3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zza/leecode/no4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zza/leecode/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zza/leecode/no5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zza/leecode/no6.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zza/leecode/Point.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zza/leecode/no7.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zza/suanfa/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zza/mutiThread/no2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zza/mutiThread/no1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zza/mutiThread/No3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zza/mutiThread/No4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zza/mutiThread/No5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zza/leecode/No8.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zza/leecode/No9.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zza/leecode/No10.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zza/leecode/a.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zza/leecode/No11.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/No1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/Node.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no1/No1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no2/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no2/Resolution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no3/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no3/Reso.java" />
@@ -291,7 +224,30 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zza/mutiThread/No7.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zza/mutiThread/ReentrantLock.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zza/leecode/No12.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zza/ccc/AbstractClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zza/ccc/ExtendAbstractClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zza/ccc/EnumIs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zza/ccc/ddd.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zza/ccc/bbb.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zza/mutiThread/No8.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no19/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no19/cccc.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zza/leecode/No9.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zza/check/TT.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zza/ccc/fff.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zza/beanTest/Son.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zza/socket/Server.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zza/socket/Client.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zza/socket/NettyClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zza/socket/NettyServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zza/beanTest/Father.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zza/beanTest/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zza/ccc/uuu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zza/suanfa/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zza/ccc/hhhh2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zza/ccc/hhhh.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zza/ccc/Main.java" />
       </list>
     </option>
   </component>
@@ -387,26 +343,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="zza" type="462c0819:PsiDirectoryNode" />
-              <item name="ccc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zza" type="462c0819:PsiDirectoryNode" />
-              <item name="leecode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zza" type="462c0819:PsiDirectoryNode" />
               <item name="suanfa" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -414,6 +350,10 @@
               <item name="java_study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -435,7 +375,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -462,13 +402,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.fff">
-    <configuration name="No12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zza.leecode.No12" />
+  <component name="RunManager" selected="Application.hhhh2">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zza.suanfa.Main" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zza.leecode.*" />
+          <option name="PATTERN" value="com.zza.suanfa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -476,12 +416,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zza.mutiThread.No6" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zza.beanTest.Main" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zza.mutiThread.*" />
+          <option name="PATTERN" value="com.zza.beanTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -489,12 +429,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zza.mutiThread.No7" />
+    <configuration name="hhhh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zza.ccc.hhhh" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zza.mutiThread.*" />
+          <option name="PATTERN" value="com.zza.ccc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -502,12 +442,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReentrantLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zza.mutiThread.ReentrantLock" />
+    <configuration name="hhhh2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zza.ccc.hhhh2" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zza.mutiThread.*" />
+          <option name="PATTERN" value="com.zza.ccc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -515,8 +455,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zza.ccc.fff" />
+    <configuration name="uuu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zza.ccc.uuu" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
@@ -530,13 +470,16 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.fff" />
-        <item itemvalue="Application.No12" />
-        <item itemvalue="Application.ReentrantLock" />
-        <item itemvalue="Application.No7" />
-        <item itemvalue="Application.No6" />
+        <item itemvalue="Application.hhhh2" />
+        <item itemvalue="Application.hhhh" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.uuu" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -586,12 +529,40 @@
       <workItem from="1564361469488" duration="86000" />
       <workItem from="1564448392978" duration="949000" />
       <workItem from="1564489197249" duration="1122000" />
-      <workItem from="1564533270333" duration="2407000" />
+      <workItem from="1564533270333" duration="7094000" />
+      <workItem from="1564731451096" duration="1288000" />
+      <workItem from="1564799456742" duration="1610000" />
+      <workItem from="1564815025298" duration="4453000" />
+      <workItem from="1564833435393" duration="1208000" />
+      <workItem from="1564879915919" duration="7200000" />
+      <workItem from="1564918953491" duration="6000" />
+      <workItem from="1564965199087" duration="1670000" />
+      <workItem from="1565070621209" duration="5105000" />
+      <workItem from="1565096573362" duration="91000" />
+      <workItem from="1565156813716" duration="6378000" />
+      <workItem from="1565226617859" duration="6309000" />
+      <workItem from="1565268578670" duration="1823000" />
+      <workItem from="1565311066821" duration="4851000" />
+      <workItem from="1565355610242" duration="2122000" />
+      <workItem from="1565401593633" duration="6813000" />
+      <workItem from="1565484406211" duration="3294000" />
+      <workItem from="1565523893157" duration="4411000" />
+      <workItem from="1565596268754" duration="1528000" />
+      <workItem from="1565791971852" duration="187000" />
+      <workItem from="1566101422192" duration="376000" />
     </task>
+    <task id="LOCAL-00001" summary="编程题">
+      <created>1564557508169</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564557508169</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="155614000" />
+    <option name="totallyTimeSpent" value="221024000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -606,8 +577,8 @@
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.56179774" visible="true" weight="0.3104435" />
-      <window_info id="Structure" order="1" sideWeight="0.43820226" side_tool="true" visible="true" weight="0.3104435" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.77559054" visible="true" weight="0.40987125" />
+      <window_info id="Structure" order="1" sideWeight="0.22440945" side_tool="true" visible="true" weight="0.40987125" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -616,14 +587,14 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4985694" visible="true" weight="0.2992126" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4985694" weight="0.34251967" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713877" weight="0.27821523" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4985694" weight="0.34514436" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32939634" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.29396325" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50143063" side_tool="true" weight="0.23622048" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5028612" side_tool="true" weight="0.42257217" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4985694" weight="0.32939634" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
@@ -647,6 +618,8 @@
       <path value="$PROJECT_DIR$/../.." />
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+    <MESSAGE value="编程题" />
+    <option name="LAST_COMMIT_MESSAGE" value="编程题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -693,6 +666,12 @@
           <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zza/check/TT.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -701,422 +680,456 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/ArrayDeque.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/rt.jar!/jdk/internal/cmm/SystemResourcePressureImpl.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="85" column="42" selection-start-line="85" selection-start-column="42" selection-end-line="85" selection-end-column="42" />
+        <state relative-caret-position="102">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="267" column="23" selection-start-line="267" selection-start-column="23" selection-end-line="267" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicBoolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1954">
+          <caret line="153" column="5" lean-forward="true" selection-start-line="153" selection-start-column="5" selection-end-line="153" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#6627#6628#0" expanded="true" />
-            <element signature="e#6668#6669#0" expanded="true" />
-            <element signature="e#11167#11168#0" expanded="true" />
-            <element signature="e#11238#11239#0" expanded="true" />
-            <element signature="e#19417#19418#0" expanded="true" />
-            <element signature="e#19452#19453#0" expanded="true" />
-            <element signature="e#19863#19864#0" expanded="true" />
-            <element signature="e#19903#19904#0" expanded="true" />
-            <element signature="e#19950#19951#0" expanded="true" />
-            <element signature="e#19997#19998#0" expanded="true" />
-            <element signature="e#24655#24656#0" expanded="true" />
-            <element signature="e#24702#24703#0" expanded="true" />
+            <element signature="e#1819#1820#0" expanded="true" />
+            <element signature="e#1852#1853#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/io/OutputStream.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/Number.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1938">
-          <caret line="137" column="16" selection-start-line="137" selection-start-column="16" selection-end-line="137" selection-end-column="16" />
+        <state relative-caret-position="442">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Deque.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="210" column="17" selection-start-line="210" selection-start-column="9" selection-end-line="210" selection-end-column="17" />
+        <state relative-caret-position="-576">
+          <caret line="242" column="19" selection-start-line="242" selection-start-column="15" selection-end-line="242" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1762#1763#0" expanded="true" />
+            <element signature="e#1798#1799#0" expanded="true" />
+            <element signature="e#4946#4947#0" expanded="true" />
+            <element signature="e#5015#5016#0" expanded="true" />
+            <element signature="e#8850#8851#0" expanded="true" />
+            <element signature="e#8878#8879#0" expanded="true" />
+            <element signature="e#9093#9094#0" expanded="true" />
+            <element signature="e#9127#9128#0" expanded="true" />
+            <element signature="e#9345#9346#0" expanded="true" />
+            <element signature="e#9380#9381#0" expanded="true" />
+            <element signature="e#9601#9602#0" expanded="true" />
+            <element signature="e#9637#9638#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/function/IntBinaryOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="192" column="12" selection-start-line="192" selection-start-column="11" selection-end-line="192" selection-end-column="12" />
+          <folding>
+            <element signature="e#2256#2286#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="307" column="33" selection-start-line="307" selection-start-column="33" selection-end-line="307" selection-end-column="33" />
+          <folding>
+            <element signature="e#11798#11799#0" expanded="true" />
+            <element signature="e#11833#11834#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="48" column="25" lean-forward="true" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Collection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-955">
-          <caret line="138" column="18" selection-start-line="138" selection-start-column="18" selection-end-line="138" selection-end-column="18" />
+        <state relative-caret-position="369">
+          <caret line="151" column="38" selection-start-line="151" selection-start-column="38" selection-end-line="151" selection-end-column="38" />
+          <folding>
+            <element signature="e#26957#26958#0" expanded="true" />
+            <element signature="e#27022#27023#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no1/No1.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1225">
+          <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6326">
+          <caret line="70" column="50" selection-start-line="70" selection-start-column="50" selection-end-line="70" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/AbstractSequentialList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1903">
+          <caret line="251" column="29" selection-start-line="251" selection-start-column="29" selection-end-line="251" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicIntegerArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4607">
+          <caret line="334" column="49" selection-start-line="334" selection-start-column="38" selection-end-line="334" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/TreeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="82" column="22" selection-start-line="82" selection-start-column="22" selection-end-line="82" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/beanTest/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16065">
+          <caret line="992" column="21" selection-start-line="992" selection-start-column="21" selection-end-line="992" selection-end-column="21" />
+          <folding>
+            <element signature="e#40917#40918#0" expanded="true" />
+            <element signature="e#40958#40959#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/Runtime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10965">
+          <caret line="673" column="35" selection-start-line="673" selection-start-column="27" selection-end-line="673" selection-end-column="35" />
+          <folding>
+            <element signature="e#1272#1273#0" expanded="true" />
+            <element signature="e#1309#1310#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="51" column="45" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="45" />
+          <folding>
+            <element signature="e#8008#8009#0" expanded="true" />
+            <element signature="e#8036#8037#0" expanded="true" />
+            <element signature="e#11209#11210#0" expanded="true" />
+            <element signature="e#11247#11248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicIntegerFieldUpdater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="60" column="15" selection-start-line="60" selection-start-column="15" selection-end-line="60" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicLong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="64" column="14" selection-start-line="64" selection-start-column="7" selection-end-line="64" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicLongArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/FunctionalInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="67" column="18" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/Callable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <caret line="40" column="39" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="160" column="15" selection-start-line="160" selection-start-column="15" selection-end-line="160" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/socket/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="26" column="61" selection-start-line="26" selection-start-column="61" selection-end-line="26" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no2/Resolution.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/socket/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no3/Reso.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no3/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no4/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no5/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" selection-start-line="7" selection-end-line="20" selection-end-column="17" />
+        <state relative-caret-position="306">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
           <folding>
-            <element signature="e#98#99#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no6/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/socket/NettyClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        <state relative-caret-position="119">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/leecode/no5.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/socket/NettyServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicMarkableReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="54" column="20" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/beanTest/Father.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#69#70#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/beanTest/Son.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          <folding>
+            <element signature="e#77#78#0" expanded="true" />
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/beanTest/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
-          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no7/Test.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicReference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="221">
+          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no8/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/suanfa/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-          <folding>
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no9/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="24" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no1/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no10/Test10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no11/Test11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no12/Test12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/lambda/DefaultImpl2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/lambda/DefaultImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/lambda/Default.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/lambda/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/lambda/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="357">
+          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no13/TreeNode.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/ccc/fff.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/lambda/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/leecode/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/leecode/No11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no14/Test14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
-          <folding>
-            <element signature="e#101#102#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no15/Test15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        <state relative-caret-position="306">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no16/Test16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no17/Test17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no2/TreeNode.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/ccc/uuu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no15/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/leecode/No10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/leecode/No9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no18/Test18.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/ccc/hhhh.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        <state relative-caret-position="425">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="26" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/jianzhiOffer/no13/Test13.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/ccc/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Lock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-626">
-          <caret line="165" column="3" lean-forward="true" selection-start-line="165" selection-start-column="3" selection-end-line="165" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="105" column="40" lean-forward="true" selection-start-line="105" selection-start-column="40" selection-end-line="105" selection-end-column="40" />
+        <state relative-caret-position="306">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding>
-            <element signature="e#8176#8177#0" expanded="true" />
-            <element signature="e#8216#8217#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/String.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/ccc/hhhh2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-402">
-          <caret line="136" column="11" selection-start-line="136" selection-start-column="11" selection-end-line="136" selection-end-column="11" />
+        <state relative-caret-position="476">
+          <caret line="29" column="23" selection-start-line="28" selection-start-column="24" selection-end-line="29" selection-end-column="23" />
           <folding>
-            <element signature="e#4677#4678#0" expanded="true" />
-            <element signature="e#4714#4715#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/mutiThread/No5.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/ccc/EnumIs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/mutiThread/No4.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/ccc/ddd.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/mutiThread/No6.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        <state relative-caret-position="23307">
+          <caret line="1434" column="47" selection-start-line="1434" selection-start-column="29" selection-end-line="1434" selection-end-column="47" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#6101#6102#0" expanded="true" />
+            <element signature="e#6171#6172#0" expanded="true" />
+            <element signature="e#32532#32533#0" expanded="true" />
+            <element signature="e#32566#32567#0" expanded="true" />
+            <element signature="e#33488#33489#0" expanded="true" />
+            <element signature="e#33522#33523#0" expanded="true" />
+            <element signature="e#46394#46395#0" expanded="true" />
+            <element signature="e#46458#46459#0" expanded="true" />
+            <element signature="e#47036#47037#0" expanded="true" />
+            <element signature="e#47092#47093#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/mutiThread/No7.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicReferenceArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="238">
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/mutiThread/ReentrantLock.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/DoubleAdder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="493">
+          <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/maps/FatherMap.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/DoubleAccumulator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="731">
+          <caret line="77" column="13" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/suanfa/Main.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/math/BigInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="17" selection-end-column="53" />
+        <state relative-caret-position="350">
+          <caret line="1312" column="9" lean-forward="true" selection-start-line="1312" selection-start-column="9" selection-end-line="1312" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/leecode/No12.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <element signature="e#89#90#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-1012">
+          <caret line="107" column="9" selection-start-line="107" selection-start-column="4" selection-end-line="107" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/ccc/User.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/ccc/ExtendAbstractClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zza/ccc/fff.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        <state relative-caret-position="153">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>

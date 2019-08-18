@@ -21,5 +21,6 @@ public class No9 {
              ) {
             System.out.println(n/2);
         }
+        new Thread().interrupt();
     }
 }
